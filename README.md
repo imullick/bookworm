@@ -1,4 +1,4 @@
-# bookworm
+# Bookworm
 
 For our project, we have created a book track keeper service in AWS and have used the RDS Aurora Database accessible via Amazon EC2 and have linked it to MySQL. MySQL has been further linked to Python Flask to make our website connected with AWS. 
 
